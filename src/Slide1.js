@@ -19,7 +19,6 @@ import { makeStyles, useTheme } from '@material-ui/core/styles';
 import { Button } from '@material-ui/core';
 import image from './Components/Images/avatar.png';
 import Content from './Components/Content';
-
 import OpenWiFi from './Components/Images/OpenWiFi.png';
 
 const AppBarWidget = (props) => {
