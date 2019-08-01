@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Roboto;
+    src: url('Roboto.ttf');
+}
+
+tr, td {
+    padding: 20px;
+}
+
+tr{
+    cursor: pointer;
+}
